@@ -7,7 +7,7 @@ This is a website containing 4 pages for an organization called Green Tech Solut
 
 3. "About Us" page containing information about the organization
 
-4.. "Contact" page having contact information for the organization
+4. "Contact" page having contact information for the organization
 
 This website is created with attractive webpages using HTML, CSS and JS.
 
