@@ -17,3 +17,6 @@ Contents used from internet:
 --background images
 --fab icons/logos
 --embedded google maps location link
+
+Developed by
+Jisnu S
