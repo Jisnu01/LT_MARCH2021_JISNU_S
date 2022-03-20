@@ -9,11 +9,11 @@ This is a website containing 4 pages for an organization called Green Tech Solut
 
 4.. "Contact" page having contact information for the organization
 
-This website is created with attractive webpages using CSS ang JS.
+This website is created with attractive webpages using HTML, CSS and JS.
 
 Note: 
 Contents used from internet:
 --fonts
---Background images
+--background images
 --fab icons/logos
---Google maps location link
+--embedded google maps location link
